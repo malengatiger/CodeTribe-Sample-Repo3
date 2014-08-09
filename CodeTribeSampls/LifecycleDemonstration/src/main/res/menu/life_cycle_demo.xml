@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LifeCycleDemoActivity" >
+    <item android:id="@+id/action_navigate"
+        android:title="Navigate to Second Act"
+        android:icon="@drawable/info32"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_close"
+        android:title="Finish"
+        android:icon="@drawable/cancel_32"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"/>
+</menu>
