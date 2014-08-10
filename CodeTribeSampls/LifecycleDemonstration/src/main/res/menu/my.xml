@@ -3,8 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context="com.boha.mymodule.app2.MyActivity" >
     <item android:id="@+id/action_back"
-        android:title="Back"
+        android:title="Close"
         android:orderInCategory="100"
-        android:icon="@drawable/info32"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
         android:showAsAction="ifRoom" />
 </menu>

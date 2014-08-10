@@ -2,8 +2,9 @@
 <resources>
 
     <string name="app_name">LifeCycle Events</string>
-    <string name="title">Check the ADB logcat to see lifecycle events fired by the Activity!</string>
+    <string name="title">Check the ADB logcat to see lifecycle events</string>
     <string name="hello_world">Hello world!</string>
+    <string name="return_first">Tap number 2 or ActionBar X</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_my">MyActivity</string>
     <string name="title_activity_second">SecondActivity</string>
